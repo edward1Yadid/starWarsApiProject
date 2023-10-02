@@ -1,7 +1,7 @@
 
 #     starWarsApiProject
 
-Welcome to The Star Wars API Project! This project is a web-based platform that allows users to explore and find various cooking recipes using a third-party API.
+Welcome to The Star Wars API Project! This project is a web-based platform that allows users to explore and find various  details by using a third-party API.
 
 ## Overview
 
